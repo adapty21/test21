@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hi This is amitesh"
+touch /root/test21
+touch /root/test25
