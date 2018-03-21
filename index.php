@@ -1,3 +1,3 @@
 <?php
-echo "php testing on test1.com page";
+echo "php testing on test2.com page";
 ?>
